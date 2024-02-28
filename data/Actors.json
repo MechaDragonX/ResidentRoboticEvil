@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,1,2,1,0],"faceIndex":0,"faceName":"player","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,1,2,1,0],"faceIndex":0,"faceName":"player","traits":[{"code":44,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Wanderer","nickname":"","note":"","profile":""}
 ]

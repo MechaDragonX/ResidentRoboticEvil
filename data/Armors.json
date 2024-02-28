@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"atypeId":3,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Cloth","note":"","params":[0,0,0,10,0,0,0,0],"price":300}
+{"id":1,"atypeId":3,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Clothes","note":"","params":[0,0,0,10,0,0,0,0],"price":300}
 ]
